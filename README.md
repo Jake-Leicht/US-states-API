@@ -33,12 +33,12 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 If you wish to use this code for your own purpose, I suggest getting your own API Key
 
-1. Get a free API Key at [https://rapidapi.com/hub)
+1. Get a free API Key at [https://rapidapi.com/aptitudeapps/api/us-states/)
 2. Clone the repo
    ```sh
    git clone https://github.com/Jake-Leicht/US-states-API.git
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `index.js`
    ```js
    const options = {
 	method: 'GET',
