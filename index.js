@@ -21,7 +21,7 @@ let outputTxt = document.getElementById("output-txt");
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '3e3ec4e52emsh80cb5d80804e7efp1a4af8jsndb9bd959b791',
+		'X-RapidAPI-Key': 'ENTER KEY HERE',
 		'X-RapidAPI-Host': 'us-states.p.rapidapi.com'
 	}
 };
